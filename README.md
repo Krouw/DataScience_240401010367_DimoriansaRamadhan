@@ -80,7 +80,7 @@ Repository ini dapat dijalankan menggunakan:
 
 ---
 
-6. Kesimpulan Umum Perjalanan Belajar Data Science Pertemuan 1–7
+6. Kesimpulan
 
 Perjalanan belajar Data Science dari pertemuan 1 sampai 7 memberikan pengalaman baru yang sangat berharga bagi saya. Awalnya saya hanya mengetahui Python sebagai bahasa pemrograman biasa, tetapi ternyata Python juga dapat digunakan untuk mengolah, menganalisis, dan memvisualisasikan data dengan sangat powerful. Saya mulai memahami bahwa data yang terlihat biasa saja sebenarnya dapat memberikan banyak informasi jika dianalisis dengan benar.
 
