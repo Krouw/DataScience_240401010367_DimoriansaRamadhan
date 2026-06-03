@@ -18,14 +18,27 @@ Tujuan : ingin mengenal lebih akan matkul data science dan kegunaannya yang berd
 
 3. List pertemuan beserta topik dan link
 
-*Pertemuan 1 
-*Pertemuan 2 
-*Pertemuan 3 
-*Pertemuan 4 
-*Pertemuan 5 
-*Pertemuan 6 
-*Pertemuan 7 
-
+* Pertemuan 1 (Pengenalan Data Science)
+  Link : https://github.com/Krouw/data-science-2026/blob/main/Pertemuan1_Dimoriansa_Ramadhan_240401010367.ipynb 
+  
+* Pertemuan 2 (Struktur Data Python, NumPy & Pandas)
+  Link : https://github.com/Krouw/data-science-2026/blob/main/Pertemuan2_Dimoriansa_Ramadhan_240401010367.ipynb 
+  
+* Pertemuan 3 (Data Cleaning: Missing Values, Outlier & Ekstraksi Data)
+  Link : https://github.com/Krouw/data-science-2026/blob/main/Pertemuan3_Dimoriansa_Ramadhan_240401010367.ipynb 
+  
+* Pertemuan 4 (Statistika Dasar & Analisis Data)
+  Link : https://github.com/Krouw/data-science-2026/blob/main/Pertemuan4_Dimoriansa_Ramadhan_240401010367.ipynb 
+  
+* Pertemuan 5 (Visualisasi Data)
+  Link : https://github.com/Krouw/data-science-2026/blob/main/Pertemuan5_Dimoriansa_Ramadhan_240401010367.ipynb 
+  
+* Pertemuan 6 (Persiapan Data)
+  Link : https://github.com/Krouw/data-science-2026/blob/main/Pertemuan6_Dimoriansa_Ramadhan_240401010367.ipynb 
+  
+* Pertemuan 7 (Pengantar Machine Learning: Regresi Linear)
+  Link : https://github.com/Krouw/data-science-2026/blob/main/Pertemuan7_Dimoriansa_Ramadhan_240401010367.ipynb 
+  
 ---
 
 4. Tools / Library yang Digunakan
