@@ -72,7 +72,7 @@ Beberapa tools dan library yang digunakan selama proses pembelajaran antara lain
 
 Repository ini dapat dijalankan menggunakan:
 
-# Google Colab
+* Google Colab
 
 1. Upload file notebook `.ipynb` ke Google Colab.
 2. Jalankan setiap cell secara berurutan.
