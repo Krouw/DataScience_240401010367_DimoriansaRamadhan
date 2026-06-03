@@ -1,6 +1,6 @@
-1. Nama  : Dimoriansa Ramadhan
-   NIM   : 240401010367
-   Kelas : IF-403
+1. * Nama  : Dimoriansa Ramadhan
+   * NIM   : 240401010367
+   * Kelas : IF-403
 
 ---
 
